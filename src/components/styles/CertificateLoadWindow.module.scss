@@ -1,0 +1,19 @@
+.fileUploader {
+  display: flex;
+  padding: 20px;
+  height: 400px;
+  width: 400px;
+  border: dashed 1px #000;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  display: none;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}

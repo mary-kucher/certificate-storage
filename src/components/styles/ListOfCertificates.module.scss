@@ -1,0 +1,19 @@
+.cert {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  justify-content: space-between;
+  cursor: pointer;
+  border: solid 1px #000000;
+  min-width: max-content;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+}
